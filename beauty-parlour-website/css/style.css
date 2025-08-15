@@ -1142,7 +1142,8 @@ p.help-block li {
 
 #contact .contact-address,
 #contact .contact-phone,
-#contact .contact-email {
+#contact .contact-email,
+#contact .contact-instagram {
   margin-bottom: 20px;
 }
 
@@ -1156,7 +1157,8 @@ p.help-block li {
 
   #contact .contact-address,
   #contact .contact-phone,
-  #contact .contact-email {
+  #contact .contact-email,
+  #contact .contact-instagram {
     padding: 0;
     text-align: left;
   }
